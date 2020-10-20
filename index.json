@@ -3,21 +3,21 @@
   "country": "Brasil",
   "city": "Rio de Janeiro",
   "age": "31",
-  "levels": [
-    {
-      "name": "Atomic Design",
-      "level": "Senior"
-    },
-    {
-      "name": "Architecture",
-      "level": "Senior"
-    },
+  "email": "sendjobs@s1x.com.br",
+  "linkedin": "https://www.linkedin.com/in/luiguild/",
+  "github": "https://github.com/luiguild",
+  "twitter": "https://twitter.com/luiguild",
+  "devSkills": [
     {
       "name": "VueJS",
       "level": "Senior"
     },
     {
       "name": "JavaScript",
+      "level": "Senior"
+    },
+    {
+      "name": "NativeScript",
       "level": "Senior"
     },
     {
@@ -65,6 +65,31 @@
       "level": "Mid-level"
     }
   ],
+  "softSkills": [
+    {
+      "name": "Atomic Design",
+      "level": "Senior"
+    },
+    {
+      "name": "Architecture",
+      "level": "Senior"
+    },
+    {
+      "name": "Team Leadership",
+      "level": "Senior"
+    },
+    {
+      "name": "Communication",
+      "level": "Senior"
+    },
+    {
+      "name": "Friendship",
+      "level": "Senior"
+    }
+  ],
+  "myKeywords": [
+    "JavaScript", "VueJS", "NativeScript", "Web", "Mobile Hybrid-Native", "CSS", "Layout", "UI/UX", "Leadership", "Team", "Frotend", "Learning", "Teaching", "Inclusion", "Diversity", "Open Source"
+  ],
   "community": [
     {
       "name": "Rio.JS",
@@ -79,7 +104,14 @@
     {
       "name": "Yoonit-Labs",
       "type": "open-source project",
-      "role": "owner/maintainer"
+      "role": "owner/maintainer",
+      "url": "https://github.com/Yoonit-Labs"
+    },
+    {
+      "name": "Elemencast",
+      "type": "personal podcast",
+      "role": "owner",
+      "url": "https://elemencast.github.io/"
     },
     {
       "name": "Mozilla",
