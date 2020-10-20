@@ -1,0 +1,90 @@
+{
+  "name": "Luigui Delyer",
+  "country": "Brasil",
+  "city": "Rio de Janeiro",
+  "age": "31",
+  "levels": [
+    {
+      "name": "Atomic Design",
+      "level": "Senior"
+    },
+    {
+      "name": "Architecture",
+      "level": "Senior"
+    },
+    {
+      "name": "VueJS",
+      "level": "Senior"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Senior"
+    },
+    {
+      "name": "CSS",
+      "level": "Senior"
+    },
+    {
+      "name": "HTML",
+      "level": "Senior"
+    },
+    {
+      "name": "PugJS",
+      "level": "Senior"
+    },
+    {
+      "name": "SASS",
+      "level": "Senior"
+    },
+    {
+      "name": "Canvas",
+      "level": "Senior"
+    },
+    {
+      "name": "A-Frame",
+      "level": "Senior"
+    },
+    {
+      "name": "API",
+      "level": "Senior"
+    },
+    {
+      "name": "GraphQL",
+      "level": "Senior"
+    },
+    {
+      "name": "NodeJS",
+      "level": "Senior"
+    },
+    {
+      "name": "Tensorflow.js",
+      "level": "Mid-level"
+    },
+    {
+      "name": "Three.js",
+      "level": "Mid-level"
+    }
+  ],
+  "community": [
+    {
+      "name": "Rio.JS",
+      "type": "meetup",
+      "role": "organizer"
+    },
+    {
+      "name": "VueJS in Rio",
+      "type": "meetup",
+      "role": "organizer"
+    },
+    {
+      "name": "Yoonit-Labs",
+      "type": "open-source project",
+      "role": "owner/maintainer"
+    },
+    {
+      "name": "Mozilla",
+      "type": "organization",
+      "role": "volunteer"
+    }
+  ]
+}
