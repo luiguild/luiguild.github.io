@@ -57,6 +57,18 @@
       "level": "Senior"
     },
     {
+      "name": "Git",
+      "level": "Senior"
+    },
+    {
+      "name": "ESRI Maps",
+      "level": "Senior"
+    },
+    {
+      "name": "OSM",
+      "level": "Senior"
+    },
+    {
       "name": "Tensorflow.js",
       "level": "Mid-level"
     },
